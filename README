@@ -1,0 +1,24 @@
+
+
+Controller
+Cache
+
+view
+    css.d
+    pre.js.d
+    post.js.d
+    templates
+
+index.tpl
+<html>
+    <head>
+    <title></title>
+    </head>
+    <body>
+    </body>
+</html>
+
+function constructHead () {
+    foreach () {
+    }
+}
